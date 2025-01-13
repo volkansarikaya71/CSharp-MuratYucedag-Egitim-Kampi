@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp301\\",
+  "WorkspaceRootPath": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\CSharp-MuratYucedag-Egitim-Kampi\\C#Sharp301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2E2136C-65AB-48C5-A84C-8AB1A717E0A2}|C#Sharp301.PresentationLayer\\C#Sharp301.PresentationLayer.csproj|c:\\users\\volkan\\desktop\\c# projelerim\\c# sertfikal\u0131 e\u011Fitim\\c#sharp301\\c#sharp301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BE53210-EBAD-4E50-8F31-B5DCD8F72E36}|C#Sharp301.EFProject\\C#Sharp301.EFProject.csproj|c:\\users\\volkan\\desktop\\c# projelerim\\c# sertfikal\u0131 e\u011Fitim\\csharp-muratyucedag-egitim-kampi\\c#sharp301\\c#sharp301.efproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE53210-EBAD-4E50-8F31-B5DCD8F72E36}|C#Sharp301.EFProject\\C#Sharp301.EFProject.csproj|solutionrelative:c#sharp301.efproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE53210-EBAD-4E50-8F31-B5DCD8F72E36}|C#Sharp301.EFProject\\C#Sharp301.EFProject.csproj|c:\\users\\volkan\\desktop\\c# projelerim\\c# sertfikal\u0131 e\u011Fitim\\csharp-muratyucedag-egitim-kampi\\c#sharp301\\c#sharp301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE53210-EBAD-4E50-8F31-B5DCD8F72E36}|C#Sharp301.EFProject\\C#Sharp301.EFProject.csproj|solutionrelative:c#sharp301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E2136C-65AB-48C5-A84C-8AB1A717E0A2}|C#Sharp301.PresentationLayer\\C#Sharp301.PresentationLayer.csproj|c:\\users\\volkan\\desktop\\c# projelerim\\c# sertfikal\u0131 e\u011Fitim\\csharp-muratyucedag-egitim-kampi\\c#sharp301\\c#sharp301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2E2136C-65AB-48C5-A84C-8AB1A717E0A2}|C#Sharp301.PresentationLayer\\C#Sharp301.PresentationLayer.csproj|solutionrelative:c#sharp301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2E2136C-65AB-48C5-A84C-8AB1A717E0A2}|C#Sharp301.PresentationLayer\\C#Sharp301.PresentationLayer.csproj|c:\\users\\volkan\\desktop\\c# projelerim\\c# sertfikal\u0131 e\u011Fitim\\c#sharp301\\c#sharp301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E2E2136C-65AB-48C5-A84C-8AB1A717E0A2}|C#Sharp301.PresentationLayer\\C#Sharp301.PresentationLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\CSharp-MuratYucedag-Egitim-Kampi\\C#Sharp301\\c#sharp301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E2E2136C-65AB-48C5-A84C-8AB1A717E0A2}|C#Sharp301.PresentationLayer\\C#Sharp301.PresentationLayer.csproj|solutionrelative:c#sharp301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,10 +31,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\CSharp-MuratYucedag-Egitim-Kampi\\C#Sharp301\\C#Sharp301.EFProject\\Program.cs",
+              "RelativeDocumentMoniker": "C#Sharp301.EFProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\CSharp-MuratYucedag-Egitim-Kampi\\C#Sharp301\\C#Sharp301.EFProject\\Program.cs",
+              "RelativeToolTip": "C#Sharp301.EFProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:02:49.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmStatistics.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\CSharp-MuratYucedag-Egitim-Kampi\\C#Sharp301\\C#Sharp301.EFProject\\FrmStatistics.cs",
+              "RelativeDocumentMoniker": "C#Sharp301.EFProject\\FrmStatistics.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\CSharp-MuratYucedag-Egitim-Kampi\\C#Sharp301\\C#Sharp301.EFProject\\FrmStatistics.cs [Tasar\u0131m]",
+              "RelativeToolTip": "C#Sharp301.EFProject\\FrmStatistics.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:02:29.16Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FrmProduct.cs",
-              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp301\\C#Sharp301.PresentationLayer\\FrmProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\CSharp-MuratYucedag-Egitim-Kampi\\C#Sharp301\\C#Sharp301.PresentationLayer\\FrmProduct.cs",
               "RelativeDocumentMoniker": "C#Sharp301.PresentationLayer\\FrmProduct.cs",
-              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp301\\C#Sharp301.PresentationLayer\\FrmProduct.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\CSharp-MuratYucedag-Egitim-Kampi\\C#Sharp301\\C#Sharp301.PresentationLayer\\FrmProduct.cs",
               "RelativeToolTip": "C#Sharp301.PresentationLayer\\FrmProduct.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,15 +68,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FrmProduct.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp301\\C#Sharp301.PresentationLayer\\FrmProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\CSharp-MuratYucedag-Egitim-Kampi\\C#Sharp301\\C#Sharp301.PresentationLayer\\FrmProduct.cs",
               "RelativeDocumentMoniker": "C#Sharp301.PresentationLayer\\FrmProduct.cs",
               "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp301\\C#Sharp301.PresentationLayer\\FrmProduct.cs [Tasar\u0131m]",
-              "RelativeToolTip": "C#Sharp301.PresentationLayer\\FrmProduct.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\C#Sharp301\\C#Sharp301.PresentationLayer\\FrmProduct.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:46:54.312Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-01-13T19:46:54.312Z"
             }
           ]
         }
