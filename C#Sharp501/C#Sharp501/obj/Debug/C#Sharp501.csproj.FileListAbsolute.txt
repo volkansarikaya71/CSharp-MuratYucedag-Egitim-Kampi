@@ -1,0 +1,13 @@
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\obj\Debug\C#Sharp501.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\obj\Debug\C_Sharp501.Form1.resources
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\obj\Debug\C_Sharp501.Properties.Resources.resources
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\obj\Debug\C#Sharp501.csproj.GenerateResource.cache
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\obj\Debug\C#Sharp501.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\bin\Debug\C#Sharp501.exe.config
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\bin\Debug\C#Sharp501.exe
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\bin\Debug\C#Sharp501.pdb
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\bin\Debug\Dapper.dll
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\bin\Debug\Dapper.xml
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\obj\Debug\C#Sharp501.csproj.Up2Date
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\obj\Debug\C#Sharp501.exe
+C:\Users\Volkan\source\repos\C#Sharp501\C#Sharp501\obj\Debug\C#Sharp501.pdb

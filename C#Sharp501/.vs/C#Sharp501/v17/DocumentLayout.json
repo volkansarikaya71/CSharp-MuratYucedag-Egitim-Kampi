@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|c:\\users\\volkan\\desktop\\c# projelerim\\c# sertfikal\u0131 e\u011Fitim\\c#sharp501\\c#sharp501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|solutionrelative:c#sharp501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\c#sharp501\\connectionstring\\databaseconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|solutionrelative:c#sharp501\\connectionstring\\databaseconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\c#sharp501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|solutionrelative:c#sharp501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\c#sharp501\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|solutionrelative:c#sharp501\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\c#sharp501\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|solutionrelative:c#sharp501\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\c#sharp501\\dtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|solutionrelative:c#sharp501\\dtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\c#sharp501\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|solutionrelative:c#sharp501\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\c#sharp501\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC3DA3-1913-48F1-BEF3-C275205F3235}|C#Sharp501\\C#Sharp501.csproj|solutionrelative:c#sharp501\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Form1.cs",
+              "RelativeDocumentMoniker": "C#Sharp501\\Form1.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Form1.cs",
+              "RelativeToolTip": "C#Sharp501\\Form1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAASwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:48:12.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\ConnectionString\\DatabaseConnectionString.cs",
+              "RelativeDocumentMoniker": "C#Sharp501\\ConnectionString\\DatabaseConnectionString.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\ConnectionString\\DatabaseConnectionString.cs",
+              "RelativeToolTip": "C#Sharp501\\ConnectionString\\DatabaseConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:09:30.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "C#Sharp501\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "C#Sharp501\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:52:31.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "C#Sharp501\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "C#Sharp501\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:45:59.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Dtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "C#Sharp501\\Dtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Dtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "C#Sharp501\\Dtos\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:43:57.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Dtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "C#Sharp501\\Dtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Dtos\\CreateProductDto.cs",
+              "RelativeToolTip": "C#Sharp501\\Dtos\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:42:45.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Dtos\\ResultProductDto.cs",
+              "RelativeDocumentMoniker": "C#Sharp501\\Dtos\\ResultProductDto.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Dtos\\ResultProductDto.cs",
+              "RelativeToolTip": "C#Sharp501\\Dtos\\ResultProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:40:52.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Form1.cs",
+              "RelativeDocumentMoniker": "C#Sharp501\\Form1.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\C# Sertfikal\u0131 E\u011Fitim\\C#Sharp501\\C#Sharp501\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "C#Sharp501\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:36:58.593Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
