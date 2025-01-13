@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\MongoDb\\C#SharpMongoDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF05FB1-D316-4BD5-ADA4-E1E900435F25}|C#Sharp601\\C#SharpMongoDb.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\MongoDb\\C#SharpMongoDb\\c#sharp601\\frmmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF05FB1-D316-4BD5-ADA4-E1E900435F25}|C#Sharp601\\C#SharpMongoDb.csproj|solutionrelative:c#sharp601\\frmmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|C#SharpMongoDb||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF05FB1-D316-4BD5-ADA4-E1E900435F25}|C#Sharp601\\C#SharpMongoDb.csproj|c:\\users\\volkan\\desktop\\c# projelerim\\mongodb\\c#sharpmongodb\\c#sharp601\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 348,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C#SharpMongoDb",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\MongoDb\\C#SharpMongoDb\\C#Sharp601\\C#SharpMongoDb.csproj",
+              "RelativeDocumentMoniker": "C#Sharp601\\C#SharpMongoDb.csproj",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\MongoDb\\C#SharpMongoDb\\C#Sharp601\\C#SharpMongoDb.csproj",
+              "RelativeToolTip": "C#Sharp601\\C#SharpMongoDb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-10T15:14:45.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMongoDb.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\MongoDb\\C#SharpMongoDb\\C#Sharp601\\FrmMongoDb.cs",
+              "RelativeDocumentMoniker": "C#Sharp601\\FrmMongoDb.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\MongoDb\\C#SharpMongoDb\\C#Sharp601\\FrmMongoDb.cs [Tasar\u0131m]",
+              "RelativeToolTip": "C#Sharp601\\FrmMongoDb.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:10:42.163Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
