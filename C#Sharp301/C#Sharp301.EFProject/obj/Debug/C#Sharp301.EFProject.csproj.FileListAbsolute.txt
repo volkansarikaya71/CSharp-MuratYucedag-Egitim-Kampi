@@ -1,0 +1,17 @@
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\bin\Debug\C#Sharp301.EFProject.exe.config
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\bin\Debug\C#Sharp301.EFProject.exe
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\bin\Debug\C#Sharp301.EFProject.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\obj\Debug\C#Sharp301.EFProject.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\obj\Debug\C_Sharp301.EFProject.Form1.resources
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\obj\Debug\C_Sharp301.EFProject.Properties.Resources.resources
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\obj\Debug\C#Sharp301.EFProject.csproj.GenerateResource.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\obj\Debug\C#Sharp301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\obj\Debug\C#Sharp3.411D01D6.Up2Date
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\obj\Debug\C#Sharp301.EFProject.exe
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\obj\Debug\C#Sharp301.EFProject.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\obj\Debug\C_Sharp301.EFProject.FrmLocation.resources
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EFProject\obj\Debug\C_Sharp301.EFProject.FrmStatistics.resources

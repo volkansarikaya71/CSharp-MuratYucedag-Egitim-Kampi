@@ -1,0 +1,17 @@
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\bin\Debug\C#Sharp301.DataAccessLayer.dll.config
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\bin\Debug\C#Sharp301.DataAccessLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\bin\Debug\C#Sharp301.DataAccessLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\bin\Debug\C#Sharp301.EntityLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\bin\Debug\C#Sharp301.EntityLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\bin\Debug\C#Sharp301.EntityLayer.dll.config
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\obj\Debug\C#Sharp301.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\obj\Debug\C#Sharp301.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\obj\Debug\C#Sharp3.589A12B4.Up2Date
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\obj\Debug\C#Sharp301.DataAccessLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\obj\Debug\C#Sharp301.DataAccessLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\obj\Debug\C_Sharp301.DataAccessLayer.Migrations.mig_update.resources
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.DataAccessLayer\obj\Debug\C#Sharp301.DataAccessLayer.csproj.GenerateResource.cache

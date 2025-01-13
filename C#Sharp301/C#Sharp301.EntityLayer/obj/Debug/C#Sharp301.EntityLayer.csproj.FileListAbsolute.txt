@@ -1,0 +1,12 @@
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\bin\Debug\C#Sharp301.EntityLayer.dll.config
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\bin\Debug\C#Sharp301.EntityLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\bin\Debug\C#Sharp301.EntityLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\obj\Debug\C#Sharp301.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\obj\Debug\C#Sharp301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\obj\Debug\C#Sharp3.95F51355.Up2Date
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\obj\Debug\C#Sharp301.EntityLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\obj\Debug\C#Sharp301.EntityLayer.pdb

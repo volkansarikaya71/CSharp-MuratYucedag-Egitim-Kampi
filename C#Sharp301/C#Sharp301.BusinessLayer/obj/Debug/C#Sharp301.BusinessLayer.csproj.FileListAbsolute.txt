@@ -1,0 +1,15 @@
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\bin\Debug\C#Sharp301.BusinessLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\bin\Debug\C#Sharp301.BusinessLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\bin\Debug\C#Sharp301.DataAccessLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\bin\Debug\C#Sharp301.EntityLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\bin\Debug\C#Sharp301.DataAccessLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\bin\Debug\C#Sharp301.DataAccessLayer.dll.config
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\bin\Debug\C#Sharp301.EntityLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\bin\Debug\C#Sharp301.EntityLayer.dll.config
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\obj\Debug\C#Sharp301.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\obj\Debug\C#Sharp301.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\obj\Debug\C#Sharp3.60E8A558.Up2Date
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\obj\Debug\C#Sharp301.BusinessLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.BusinessLayer\obj\Debug\C#Sharp301.BusinessLayer.pdb
