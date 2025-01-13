@@ -1,0 +1,48 @@
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C_Sharp301.PresentationLayer.FrmCategory.resources
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C_Sharp301.PresentationLayer.Properties.Resources.resources
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.PresentationLayer.exe.config
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.PresentationLayer.exe
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.PresentationLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.BusinessLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.DataAccessLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.EntityLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.BusinessLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.DataAccessLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.DataAccessLayer.dll.config
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.EntityLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.EntityLayer.dll.config
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp3.F4A4CCE6.Up2Date
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp301.PresentationLayer.exe
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp301.PresentationLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C_Sharp301.PresentationLayer.FrmProduct.resources
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.PresentationLayer.exe.config
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.PresentationLayer.exe
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.PresentationLayer.pdb
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.BusinessLayer.dll
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.DataAccessLayer.dll
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.EntityLayer.dll
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.BusinessLayer.pdb
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.DataAccessLayer.pdb
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.DataAccessLayer.dll.config
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.EntityLayer.pdb
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\C#Sharp301.EntityLayer.dll.config
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C_Sharp301.PresentationLayer.FrmCategory.resources
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C_Sharp301.PresentationLayer.FrmProduct.resources
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C_Sharp301.PresentationLayer.Properties.Resources.resources
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp3.F4A4CCE6.Up2Date
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp301.PresentationLayer.exe
+C:\Users\Volkan\Desktop\c# projelerim\C# Sertfikalı Eğitim\C#Sharp301\C#Sharp301.PresentationLayer\obj\Debug\C#Sharp301.PresentationLayer.pdb
