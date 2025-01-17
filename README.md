@@ -1,27 +1,90 @@
-  Bu porjede C# öğrenirken yazdığım kodlar bulunmaktadır.İlk 10 Ders klasorunun içinde c# temel kod yapısı ve mssql temel crud işlemleri bulunmaktadır.C#Sharp301 modulunde n katmalı mimarı ile ef katmanınlı crud işlemleri bulunmaktadır.C#Sharp501 modulunde Dapper kullanımı bulunmaktadır.C#SharpMongoDb modulunde mongodb veritanında yapılmıs crud işlemleri bulunmaktadır.C#PostgreSql modulunde PostgreSql veritanında yapılmıs crud işlemleri bulunmaktadır.FinancialCrm modulunde basit bir banka otomasyonu bulunmaktadır.
-  
+  Bu proje, temel C# konseptlerinden çok katmanlı mimari, Entity Framework, Dapper, MongoDB ve PostgreSQL gibi ileri düzey konuları kapsayan becerilerimin evrimini göstermektedir. Ayrıca, basit bir banka otomasyonu sistemi de içermektedir.
+
+  Modüller
+
+İlk 10 Ders
+
+Kapsanan Konular:
+
+Temel C# yapısı
+
+MSSQL ile temel CRUD işlemleri
+
   C#Sharp301 modulune ait görseller:
 https://ibb.co/3WTW1K0
 https://ibb.co/mTM4B62
 https://ibb.co/P9h86Fd
-  
-  C#Sharp501 modulune ait görseller: 
+
+  C#Sharp301 Modülü
+
+Kapsanan Konular:
+
+Çok katmanlı mimari
+
+Entity Framework (EF) kullanarak CRUD işlemleri
+
+Ekran Görüntüleri:
+
+https://ibb.co/P9h86Fd
+
+https://ibb.co/3WTW1K0
+
+https://ibb.co/mTM4B62
+
+C#Sharp501 Modülü
+
+Kapsanan Konular:
+
+Dapper kullanarak veritabanı işlemleri
+
+Ekran Görüntüleri:
+
 https://ibb.co/Cb2ZTPS
-  
-  C#SharpMongoDb modulune ait görseller: 
+
+C#SharpMongoDb Modülü
+
+Kapsanan Konular:
+
+MongoDB veritabanında CRUD işlemleri
+
+Ekran Görüntüleri:
+
 https://ibb.co/S3BvsFY
-  
-  C#PostgreSql modulune ait görseller:
+
+C#PostgreSql Modülü
+
+Kapsanan Konular:
+
+PostgreSQL veritabanında CRUD işlemleri
+
+Ekran Görüntüleri:
+
 https://ibb.co/hWJjDzT
+
 https://ibb.co/Cs6Y7DS
+
 https://ibb.co/vjG8vcr
-  
-  FinancialCrm modulune ait görseller:
+
+FinancialCrm Modülü
+
+Kapsanan Konular:
+
+Basit bir banka otomasyonu sistemi
+
+Ekran Görüntüleri:  
+
 https://ibb.co/ysW8dvL
+
 https://ibb.co/7R06cRm
+
 https://ibb.co/wJfZcdK
+
 https://ibb.co/LNzVzDM
+
 https://ibb.co/y5GQq3d
+
 https://ibb.co/LvKbttP
+
 https://ibb.co/6BTjTXm
+
 https://ibb.co/Vx41y3R
