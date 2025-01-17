@@ -1,8 +1,8 @@
   
     Bu porjede C# öğrenirken yazdığım kodlar bulunmaktadır.İlk 10 Ders klasorunun içinde c# temel kod yapısı ve mssql temel crud işlemleri bulunmaktadır.C#Sharp301 modulunde n katmalı mimarı ile ef katmanınlı crud işlemleri bulunmaktadır.C#Sharp501 modulunde Dapper kullanımı bulunmaktadır.C#SharpMongoDb modulunde mongodb veritanında yapılmıs crud işlemleri bulunmaktadır.C#PostgreSql modulunde PostgreSql veritanında yapılmıs crud işlemleri bulunmaktadır.FinancialCrm modulunde basit bir banka otomasyonu bulunmaktadır.
-    C#Sharp301 modulune ait görseller:
-    https://ibb.co/3WTW1K0
-    https://ibb.co/mTM4B62
+  C#Sharp301 modulune ait görseller:
+https://ibb.co/3WTW1K0
+https://ibb.co/mTM4B62
 https://ibb.co/P9h86Fd
   C#Sharp501 modulune ait görseller: 
 https://ibb.co/Cb2ZTPS
