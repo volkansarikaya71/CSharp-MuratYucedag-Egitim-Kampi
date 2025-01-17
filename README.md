@@ -10,12 +10,7 @@ Temel C# yapısı
 
 MSSQL ile temel CRUD işlemleri
 
-  C#Sharp301 modulune ait görseller:
-https://ibb.co/3WTW1K0
-https://ibb.co/mTM4B62
-https://ibb.co/P9h86Fd
-
-  C#Sharp301 Modülü
+   C#Sharp301 Modülü
 
 Kapsanan Konular:
 
@@ -31,7 +26,7 @@ https://ibb.co/3WTW1K0
 
 https://ibb.co/mTM4B62
 
-C#Sharp501 Modülü
+  C#Sharp501 Modülü
 
 Kapsanan Konular:
 
@@ -41,7 +36,7 @@ Ekran Görüntüleri:
 
 https://ibb.co/Cb2ZTPS
 
-C#SharpMongoDb Modülü
+  C#SharpMongoDb Modülü
 
 Kapsanan Konular:
 
@@ -51,7 +46,7 @@ Ekran Görüntüleri:
 
 https://ibb.co/S3BvsFY
 
-C#PostgreSql Modülü
+  C#PostgreSql Modülü
 
 Kapsanan Konular:
 
@@ -65,7 +60,7 @@ https://ibb.co/Cs6Y7DS
 
 https://ibb.co/vjG8vcr
 
-FinancialCrm Modülü
+  FinancialCrm Modülü
 
 Kapsanan Konular:
 
